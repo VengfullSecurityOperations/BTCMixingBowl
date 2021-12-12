@@ -5,7 +5,6 @@ The entire source code for my Bitcoin Tumbler website, Includes the Unique BTC A
 ### Default Administrator Credentials
 
 ```
-Username: Admin
-
-Password : SuperSecureLOL
+Username: **Admin**
+Password : **SuperSecureLOL**
 ```
